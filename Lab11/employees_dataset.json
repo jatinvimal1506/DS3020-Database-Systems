@@ -1,0 +1,3003 @@
+[
+  {
+    "name": "Shanthi Singh",
+    "age": 23,
+    "dept": "Finance",
+    "salary": 87000,
+    "experience_years": 1,
+    "rating": 2.4,
+    "is_manager": true,
+    "join_year": 2023,
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Power BI",
+      "C++"
+    ],
+    "projects": [
+      "Hera"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "191161"
+    }
+  },
+  {
+    "name": "Rekha Hegde",
+    "age": 56,
+    "dept": "Operations",
+    "salary": 69000,
+    "experience_years": 15,
+    "rating": 3.8,
+    "is_manager": false,
+    "join_year": 2009,
+    "skills": [
+      "Data Analysis",
+      "Leadership",
+      "JavaScript"
+    ],
+    "projects": [
+      "Orion",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "895667"
+    }
+  },
+  {
+    "name": "Nisha Patel",
+    "age": 46,
+    "dept": "IT",
+    "salary": 92000,
+    "experience_years": 12,
+    "rating": 3.8,
+    "is_manager": false,
+    "join_year": 2012,
+    "skills": [
+      "Project Management",
+      "SQL"
+    ],
+    "projects": [
+      "Ceres",
+      "Pegasus",
+      "Orion"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "662275"
+    }
+  },
+  {
+    "name": "Selvam Patel",
+    "age": 24,
+    "dept": "HR",
+    "salary": 73000,
+    "experience_years": 1,
+    "rating": 4.6,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Communication",
+      "Tableau",
+      "Git",
+      "AWS",
+      "Power BI"
+    ],
+    "projects": [
+      "Hermes",
+      "Nova",
+      "Hera"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "391476"
+    }
+  },
+  {
+    "name": "Thilaga Pillai",
+    "age": 32,
+    "dept": "Operations",
+    "salary": 90000,
+    "experience_years": 5,
+    "rating": 5.0,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Java",
+      "C++",
+      "Git",
+      "Leadership"
+    ],
+    "projects": [
+      "Vega",
+      "Hermes",
+      "Orion",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "330283"
+    }
+  },
+  {
+    "name": "Geeta Rao",
+    "age": 53,
+    "dept": "Operations",
+    "salary": 100000,
+    "experience_years": 5,
+    "rating": 2.8,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Docker",
+      "Data Analysis",
+      "Project Management",
+      "Communication"
+    ],
+    "projects": [
+      "Titan",
+      "Delphi"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "665158"
+    }
+  },
+  {
+    "name": "Shobha Patel",
+    "age": 25,
+    "dept": "IT",
+    "salary": 65000,
+    "experience_years": 2,
+    "rating": 4.4,
+    "is_manager": false,
+    "join_year": 2022,
+    "skills": [
+      "Git",
+      "Machine Learning",
+      "Networking",
+      "JavaScript",
+      "Python"
+    ],
+    "projects": [
+      "Hera"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "503457"
+    }
+  },
+  {
+    "name": "Chandran Menon",
+    "age": 43,
+    "dept": "IT",
+    "salary": 83000,
+    "experience_years": 14,
+    "rating": 2.5,
+    "is_manager": true,
+    "join_year": 2010,
+    "skills": [
+      "Networking",
+      "Excel",
+      "MongoDB"
+    ],
+    "projects": [
+      "Titan",
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "624902"
+    }
+  },
+  {
+    "name": "Meenakshi Nair",
+    "age": 56,
+    "dept": "Marketing",
+    "salary": 42000,
+    "experience_years": 20,
+    "rating": 3.0,
+    "is_manager": true,
+    "join_year": 2004,
+    "skills": [
+      "C++",
+      "Java",
+      "Git",
+      "SQL"
+    ],
+    "projects": [
+      "Iris"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "972064"
+    }
+  },
+  {
+    "name": "Vikram Kamath",
+    "age": 56,
+    "dept": "HR",
+    "salary": 52000,
+    "experience_years": 22,
+    "rating": 3.4,
+    "is_manager": false,
+    "join_year": 2002,
+    "skills": [
+      "Power BI",
+      "AWS",
+      "Git",
+      "MongoDB",
+      "Project Management"
+    ],
+    "projects": [
+      "Ares",
+      "Delphi",
+      "Ceres"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "653306"
+    }
+  },
+  {
+    "name": "Pooja Pillai",
+    "age": 36,
+    "dept": "IT",
+    "salary": 89000,
+    "experience_years": 1,
+    "rating": 3.8,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Java",
+      "C++"
+    ],
+    "projects": [
+      "Zeus"
+    ],
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "107540"
+    }
+  },
+  {
+    "name": "Prasad Patel",
+    "age": 54,
+    "dept": "HR",
+    "salary": 72000,
+    "experience_years": 22,
+    "rating": 3.5,
+    "is_manager": false,
+    "join_year": 2002,
+    "skills": [
+      "C++",
+      "Word",
+      "Data Analysis",
+      "Power BI",
+      "Excel"
+    ],
+    "projects": [
+      "Atlas"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "704201"
+    }
+  },
+  {
+    "name": "Madhuri Shah",
+    "age": 48,
+    "dept": "Operations",
+    "salary": 47000,
+    "experience_years": 22,
+    "rating": 4.0,
+    "is_manager": false,
+    "join_year": 2002,
+    "skills": [
+      "Excel",
+      "C++",
+      "Power BI",
+      "AWS"
+    ],
+    "projects": [
+      "Titan",
+      "Atlas",
+      "Nova",
+      "Vega"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "522179"
+    }
+  },
+  {
+    "name": "Anitha Pillai",
+    "age": 26,
+    "dept": "Operations",
+    "salary": 53000,
+    "experience_years": 1,
+    "rating": 4.0,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Tableau",
+      "Data Analysis",
+      "Word"
+    ],
+    "projects": [
+      "Orion",
+      "Kronos",
+      "Zeus",
+      "Nova"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "197793"
+    }
+  },
+  {
+    "name": "Naveen Kumar",
+    "age": 46,
+    "dept": "Finance",
+    "salary": 115000,
+    "experience_years": 10,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2014,
+    "skills": [
+      "R",
+      "Power BI",
+      "MongoDB",
+      "Docker",
+      "Java"
+    ],
+    "projects": [
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "794022"
+    }
+  },
+  {
+    "name": "Anjali Sharma",
+    "age": 52,
+    "dept": "Marketing",
+    "salary": 112000,
+    "experience_years": 6,
+    "rating": 2.2,
+    "is_manager": false,
+    "join_year": 2018,
+    "skills": [
+      "C++",
+      "Project Management"
+    ],
+    "projects": [
+      "Lyra"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "171849"
+    }
+  },
+  {
+    "name": "Asha Roy",
+    "age": 24,
+    "dept": "Marketing",
+    "salary": 53000,
+    "experience_years": 2,
+    "rating": 4.0,
+    "is_manager": false,
+    "join_year": 2022,
+    "skills": [
+      "Leadership",
+      "C++",
+      "JavaScript"
+    ],
+    "projects": [
+      "Titan",
+      "Helios",
+      "Ares",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "373432"
+    }
+  },
+  {
+    "name": "Chandran Swamy",
+    "age": 26,
+    "dept": "IT",
+    "salary": 105000,
+    "experience_years": 5,
+    "rating": 5.0,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Networking",
+      "JavaScript",
+      "R"
+    ],
+    "projects": [
+      "Hermes",
+      "Phoenix",
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "663750"
+    }
+  },
+  {
+    "name": "Sunil Nair",
+    "age": 50,
+    "dept": "Marketing",
+    "salary": 82000,
+    "experience_years": 20,
+    "rating": 5.0,
+    "is_manager": false,
+    "join_year": 2004,
+    "skills": [
+      "Excel",
+      "R",
+      "JavaScript",
+      "Git"
+    ],
+    "projects": [
+      "Hera"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "108203"
+    }
+  },
+  {
+    "name": "Lakshmi Menon",
+    "age": 40,
+    "dept": "Marketing",
+    "salary": 70000,
+    "experience_years": 11,
+    "rating": 2.6,
+    "is_manager": false,
+    "join_year": 2013,
+    "skills": [
+      "JavaScript",
+      "Java",
+      "SQL",
+      "Data Analysis",
+      "Git"
+    ],
+    "projects": [
+      "Apollo"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "629959"
+    }
+  },
+  {
+    "name": "Prasad Kamath",
+    "age": 30,
+    "dept": "Finance",
+    "salary": 76000,
+    "experience_years": 8,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2016,
+    "skills": [
+      "R",
+      "AWS"
+    ],
+    "projects": [
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "217308"
+    }
+  },
+  {
+    "name": "Rajan Das",
+    "age": 31,
+    "dept": "Operations",
+    "salary": 57000,
+    "experience_years": 1,
+    "rating": 2.9,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "C++",
+      "Excel",
+      "Communication"
+    ],
+    "projects": [
+      "Ceres",
+      "Titan",
+      "Phoenix",
+      "Nova"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "475190"
+    }
+  },
+  {
+    "name": "Nikhil Murthy",
+    "age": 48,
+    "dept": "IT",
+    "salary": 69000,
+    "experience_years": 24,
+    "rating": 4.8,
+    "is_manager": false,
+    "join_year": 2000,
+    "skills": [
+      "JavaScript",
+      "Tableau",
+      "Excel"
+    ],
+    "projects": [
+      "Zeus",
+      "Iris",
+      "Phoenix",
+      "Orion"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "941204"
+    }
+  },
+  {
+    "name": "Prakash Mishra",
+    "age": 41,
+    "dept": "HR",
+    "salary": 64000,
+    "experience_years": 1,
+    "rating": 4.0,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Communication",
+      "Networking",
+      "Project Management",
+      "Leadership"
+    ],
+    "projects": [
+      "Athena"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "172792"
+    }
+  },
+  {
+    "name": "Usha Nair",
+    "age": 38,
+    "dept": "IT",
+    "salary": 59000,
+    "experience_years": 14,
+    "rating": 3.0,
+    "is_manager": false,
+    "join_year": 2010,
+    "skills": [
+      "Project Management",
+      "Docker"
+    ],
+    "projects": [
+      "Vega",
+      "Zeus"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "735656"
+    }
+  },
+  {
+    "name": "Selvam Shah",
+    "age": 22,
+    "dept": "Marketing",
+    "salary": 68000,
+    "experience_years": 1,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Excel",
+      "MongoDB",
+      "Networking",
+      "Docker"
+    ],
+    "projects": [
+      "Nimbus",
+      "Kronos",
+      "Helios",
+      "Titan"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "753425"
+    }
+  },
+  {
+    "name": "Harish Shah",
+    "age": 46,
+    "dept": "HR",
+    "salary": 74000,
+    "experience_years": 13,
+    "rating": 3.6,
+    "is_manager": true,
+    "join_year": 2011,
+    "skills": [
+      "Docker",
+      "Leadership",
+      "Machine Learning",
+      "AWS",
+      "Networking"
+    ],
+    "projects": [
+      "Delphi",
+      "Iris"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "320392"
+    }
+  },
+  {
+    "name": "Prabhu Nair",
+    "age": 27,
+    "dept": "Finance",
+    "salary": 123000,
+    "experience_years": 6,
+    "rating": 3.9,
+    "is_manager": false,
+    "join_year": 2018,
+    "skills": [
+      "C++",
+      "Power BI",
+      "R",
+      "Python"
+    ],
+    "projects": [
+      "Phoenix"
+    ],
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "805477"
+    }
+  },
+  {
+    "name": "Ganesh Sen",
+    "age": 26,
+    "dept": "Operations",
+    "salary": 94000,
+    "experience_years": 5,
+    "rating": 2.6,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "R",
+      "Python",
+      "Excel"
+    ],
+    "projects": [
+      "Phoenix",
+      "Nova",
+      "Delphi",
+      "Ares"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "519066"
+    }
+  },
+  {
+    "name": "Rahul Das",
+    "age": 37,
+    "dept": "IT",
+    "salary": 105000,
+    "experience_years": 5,
+    "rating": 4.4,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Machine Learning",
+      "Networking",
+      "Data Analysis",
+      "Git"
+    ],
+    "projects": [
+      "Iris",
+      "Ares"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "724377"
+    }
+  },
+  {
+    "name": "Usha Kamath",
+    "age": 37,
+    "dept": "Finance",
+    "salary": 123000,
+    "experience_years": 16,
+    "rating": 3.9,
+    "is_manager": false,
+    "join_year": 2008,
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Leadership",
+      "AWS"
+    ],
+    "projects": [
+      "Titan"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "848206"
+    }
+  },
+  {
+    "name": "Lakshmi Pillai",
+    "age": 46,
+    "dept": "HR",
+    "salary": 63000,
+    "experience_years": 3,
+    "rating": 3.2,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Power BI",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Lyra",
+      "Apollo",
+      "Kronos",
+      "Iris"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "535970"
+    }
+  },
+  {
+    "name": "Riya Mishra",
+    "age": 41,
+    "dept": "Operations",
+    "salary": 95000,
+    "experience_years": 18,
+    "rating": 4.2,
+    "is_manager": false,
+    "join_year": 2006,
+    "skills": [
+      "C++",
+      "JavaScript",
+      "Data Analysis",
+      "Word",
+      "Python"
+    ],
+    "projects": [
+      "Nimbus",
+      "Kronos",
+      "Nova",
+      "Ares"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "331251"
+    }
+  },
+  {
+    "name": "Sanjay Sen",
+    "age": 56,
+    "dept": "IT",
+    "salary": 97000,
+    "experience_years": 19,
+    "rating": 3.7,
+    "is_manager": true,
+    "join_year": 2005,
+    "skills": [
+      "Tableau",
+      "Java",
+      "JavaScript",
+      "Project Management",
+      "Leadership"
+    ],
+    "projects": [
+      "Ares",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "242291"
+    }
+  },
+  {
+    "name": "Hema Kamath",
+    "age": 46,
+    "dept": "Finance",
+    "salary": 110000,
+    "experience_years": 9,
+    "rating": 4.5,
+    "is_manager": false,
+    "join_year": 2015,
+    "skills": [
+      "C++",
+      "SQL",
+      "Java",
+      "Python"
+    ],
+    "projects": [
+      "Orion",
+      "Apollo"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "154615"
+    }
+  },
+  {
+    "name": "Vasantha Reddy",
+    "age": 37,
+    "dept": "HR",
+    "salary": 97000,
+    "experience_years": 4,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2020,
+    "skills": [
+      "Tableau",
+      "Excel",
+      "Git",
+      "MongoDB"
+    ],
+    "projects": [
+      "Lyra"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "904150"
+    }
+  },
+  {
+    "name": "Kiran Swamy",
+    "age": 41,
+    "dept": "Marketing",
+    "salary": 91000,
+    "experience_years": 13,
+    "rating": 4.8,
+    "is_manager": true,
+    "join_year": 2011,
+    "skills": [
+      "Excel",
+      "MongoDB",
+      "Git"
+    ],
+    "projects": [
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "824161"
+    }
+  },
+  {
+    "name": "Satish Shah",
+    "age": 45,
+    "dept": "IT",
+    "salary": 111000,
+    "experience_years": 21,
+    "rating": 3.0,
+    "is_manager": false,
+    "join_year": 2003,
+    "skills": [
+      "Communication",
+      "Machine Learning",
+      "R",
+      "Data Analysis",
+      "Tableau"
+    ],
+    "projects": [
+      "Ceres",
+      "Hera",
+      "Iris"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "210665"
+    }
+  },
+  {
+    "name": "Anitha Shah",
+    "age": 39,
+    "dept": "Finance",
+    "salary": 87000,
+    "experience_years": 3,
+    "rating": 2.8,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Leadership",
+      "Python",
+      "Word",
+      "Git",
+      "Tableau"
+    ],
+    "projects": [
+      "Orion",
+      "Pegasus",
+      "Vega",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "697530"
+    }
+  },
+  {
+    "name": "Saritha Murthy",
+    "age": 39,
+    "dept": "Marketing",
+    "salary": 43000,
+    "experience_years": 17,
+    "rating": 4.8,
+    "is_manager": true,
+    "join_year": 2007,
+    "skills": [
+      "Word",
+      "Git",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Hermes"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "612311"
+    }
+  },
+  {
+    "name": "Padma Pillai",
+    "age": 47,
+    "dept": "HR",
+    "salary": 75000,
+    "experience_years": 22,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2002,
+    "skills": [
+      "AWS",
+      "Leadership",
+      "Communication",
+      "Machine Learning",
+      "JavaScript"
+    ],
+    "projects": [
+      "Vega",
+      "Phoenix",
+      "Athena"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "460455"
+    }
+  },
+  {
+    "name": "Kumaran Iyer",
+    "age": 42,
+    "dept": "IT",
+    "salary": 69000,
+    "experience_years": 7,
+    "rating": 2.6,
+    "is_manager": false,
+    "join_year": 2017,
+    "skills": [
+      "Excel",
+      "Power BI",
+      "MongoDB",
+      "C++"
+    ],
+    "projects": [
+      "Nova",
+      "Helios",
+      "Apollo"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "897135"
+    }
+  },
+  {
+    "name": "Selvam Das",
+    "age": 30,
+    "dept": "Finance",
+    "salary": 61000,
+    "experience_years": 1,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Excel",
+      "Python",
+      "MongoDB",
+      "Word",
+      "Networking"
+    ],
+    "projects": [
+      "Nimbus",
+      "Nova",
+      "Zeus",
+      "Vega"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "768854"
+    }
+  },
+  {
+    "name": "Saranya Singh",
+    "age": 26,
+    "dept": "Operations",
+    "salary": 104000,
+    "experience_years": 1,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "SQL",
+      "C++",
+      "Excel",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Delphi",
+      "Kronos"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "256445"
+    }
+  },
+  {
+    "name": "Sumathi Swamy",
+    "age": 50,
+    "dept": "Finance",
+    "salary": 111000,
+    "experience_years": 10,
+    "rating": 3.7,
+    "is_manager": true,
+    "join_year": 2014,
+    "skills": [
+      "Power BI",
+      "JavaScript",
+      "SQL"
+    ],
+    "projects": [
+      "Phoenix",
+      "Nova"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "899787"
+    }
+  },
+  {
+    "name": "Dinesh Patel",
+    "age": 32,
+    "dept": "IT",
+    "salary": 99000,
+    "experience_years": 8,
+    "rating": 4.1,
+    "is_manager": false,
+    "join_year": 2016,
+    "skills": [
+      "MongoDB",
+      "Machine Learning",
+      "SQL",
+      "C++"
+    ],
+    "projects": [
+      "Lyra",
+      "Orion",
+      "Atlas"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "342720"
+    }
+  },
+  {
+    "name": "Aditya Das",
+    "age": 36,
+    "dept": "HR",
+    "salary": 70000,
+    "experience_years": 14,
+    "rating": 2.4,
+    "is_manager": true,
+    "join_year": 2010,
+    "skills": [
+      "Machine Learning",
+      "Excel",
+      "Git",
+      "MongoDB"
+    ],
+    "projects": [
+      "Vega",
+      "Delphi",
+      "Hera",
+      "Iris"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "723948"
+    }
+  },
+  {
+    "name": "Shankar Patel",
+    "age": 24,
+    "dept": "Operations",
+    "salary": 82000,
+    "experience_years": 3,
+    "rating": 2.8,
+    "is_manager": true,
+    "join_year": 2021,
+    "skills": [
+      "JavaScript",
+      "Docker"
+    ],
+    "projects": [
+      "Nova"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "715643"
+    }
+  },
+  {
+    "name": "Ganesh Bose",
+    "age": 50,
+    "dept": "Finance",
+    "salary": 79000,
+    "experience_years": 19,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2005,
+    "skills": [
+      "Data Analysis",
+      "Leadership",
+      "Docker",
+      "Excel"
+    ],
+    "projects": [
+      "Nimbus",
+      "Atlas"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "592841"
+    }
+  },
+  {
+    "name": "Moorthy Kapoor",
+    "age": 40,
+    "dept": "Operations",
+    "salary": 45000,
+    "experience_years": 15,
+    "rating": 2.3,
+    "is_manager": false,
+    "join_year": 2009,
+    "skills": [
+      "Networking",
+      "Python",
+      "AWS",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Orion"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "910075"
+    }
+  },
+  {
+    "name": "Venkat Mishra",
+    "age": 53,
+    "dept": "Operations",
+    "salary": 47000,
+    "experience_years": 7,
+    "rating": 2.8,
+    "is_manager": true,
+    "join_year": 2017,
+    "skills": [
+      "Excel",
+      "Python",
+      "C++",
+      "Tableau",
+      "MongoDB"
+    ],
+    "projects": [
+      "Hera"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "559398"
+    }
+  },
+  {
+    "name": "Karthik Patel",
+    "age": 36,
+    "dept": "IT",
+    "salary": 105000,
+    "experience_years": 2,
+    "rating": 3.9,
+    "is_manager": true,
+    "join_year": 2022,
+    "skills": [
+      "Data Analysis",
+      "Word",
+      "Docker",
+      "C++"
+    ],
+    "projects": [
+      "Hera",
+      "Titan",
+      "Kronos",
+      "Orion"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "633590"
+    }
+  },
+  {
+    "name": "Bhaskar Bose",
+    "age": 30,
+    "dept": "IT",
+    "salary": 81000,
+    "experience_years": 7,
+    "rating": 3.0,
+    "is_manager": false,
+    "join_year": 2017,
+    "skills": [
+      "MongoDB",
+      "Git"
+    ],
+    "projects": [
+      "Titan",
+      "Ares",
+      "Hera",
+      "Iris"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "960408"
+    }
+  },
+  {
+    "name": "Ravi Verma",
+    "age": 57,
+    "dept": "Marketing",
+    "salary": 91000,
+    "experience_years": 15,
+    "rating": 4.8,
+    "is_manager": false,
+    "join_year": 2009,
+    "skills": [
+      "C++",
+      "Data Analysis",
+      "Java",
+      "Leadership",
+      "Word"
+    ],
+    "projects": [
+      "Kronos",
+      "Titan",
+      "Iris",
+      "Zeus"
+    ],
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "699573"
+    }
+  },
+  {
+    "name": "Sanjay Bose",
+    "age": 43,
+    "dept": "IT",
+    "salary": 103000,
+    "experience_years": 4,
+    "rating": 3.6,
+    "is_manager": false,
+    "join_year": 2020,
+    "skills": [
+      "SQL",
+      "Word",
+      "JavaScript"
+    ],
+    "projects": [
+      "Ceres",
+      "Kronos",
+      "Hermes"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "529893"
+    }
+  },
+  {
+    "name": "Prasad Gowda",
+    "age": 56,
+    "dept": "Operations",
+    "salary": 82000,
+    "experience_years": 21,
+    "rating": 4.2,
+    "is_manager": false,
+    "join_year": 2003,
+    "skills": [
+      "C++",
+      "MongoDB"
+    ],
+    "projects": [
+      "Hermes",
+      "Atlas"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "137642"
+    }
+  },
+  {
+    "name": "Rohit Kamath",
+    "age": 28,
+    "dept": "Operations",
+    "salary": 62000,
+    "experience_years": 6,
+    "rating": 2.9,
+    "is_manager": true,
+    "join_year": 2018,
+    "skills": [
+      "MongoDB",
+      "Communication"
+    ],
+    "projects": [
+      "Atlas",
+      "Titan",
+      "Phoenix"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "934816"
+    }
+  },
+  {
+    "name": "Chitra Shah",
+    "age": 58,
+    "dept": "HR",
+    "salary": 57000,
+    "experience_years": 6,
+    "rating": 2.2,
+    "is_manager": false,
+    "join_year": 2018,
+    "skills": [
+      "Word",
+      "Docker",
+      "R"
+    ],
+    "projects": [
+      "Ares",
+      "Vega"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "816318"
+    }
+  },
+  {
+    "name": "Prakash Menon",
+    "age": 22,
+    "dept": "Operations",
+    "salary": 78000,
+    "experience_years": 1,
+    "rating": 2.2,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "JavaScript",
+      "Machine Learning",
+      "MongoDB",
+      "Power BI",
+      "Project Management"
+    ],
+    "projects": [
+      "Athena",
+      "Phoenix",
+      "Kronos",
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "413685"
+    }
+  },
+  {
+    "name": "Pushpa Gupta",
+    "age": 40,
+    "dept": "IT",
+    "salary": 97000,
+    "experience_years": 9,
+    "rating": 2.0,
+    "is_manager": false,
+    "join_year": 2015,
+    "skills": [
+      "MongoDB",
+      "C++",
+      "Communication",
+      "Docker",
+      "Power BI"
+    ],
+    "projects": [
+      "Titan",
+      "Athena",
+      "Zeus"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "735863"
+    }
+  },
+  {
+    "name": "Leela Bhat",
+    "age": 50,
+    "dept": "IT",
+    "salary": 93000,
+    "experience_years": 24,
+    "rating": 2.4,
+    "is_manager": false,
+    "join_year": 2000,
+    "skills": [
+      "Tableau",
+      "Power BI",
+      "R",
+      "Communication",
+      "JavaScript"
+    ],
+    "projects": [
+      "Vega",
+      "Iris"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "883790"
+    }
+  },
+  {
+    "name": "Padma Shetty",
+    "age": 43,
+    "dept": "IT",
+    "salary": 106000,
+    "experience_years": 3,
+    "rating": 2.4,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "SQL",
+      "Project Management",
+      "Python",
+      "JavaScript"
+    ],
+    "projects": [
+      "Ares"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "986827"
+    }
+  },
+  {
+    "name": "Vijaya Naik",
+    "age": 38,
+    "dept": "Marketing",
+    "salary": 92000,
+    "experience_years": 12,
+    "rating": 2.3,
+    "is_manager": false,
+    "join_year": 2012,
+    "skills": [
+      "Git",
+      "C++",
+      "SQL",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Atlas",
+      "Athena",
+      "Titan"
+    ],
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "749641"
+    }
+  },
+  {
+    "name": "Priya Sharma",
+    "age": 41,
+    "dept": "Operations",
+    "salary": 55000,
+    "experience_years": 4,
+    "rating": 2.7,
+    "is_manager": false,
+    "join_year": 2020,
+    "skills": [
+      "AWS",
+      "Data Analysis",
+      "R",
+      "Docker"
+    ],
+    "projects": [
+      "Iris"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "575679"
+    }
+  },
+  {
+    "name": "Jayaraman Shah",
+    "age": 39,
+    "dept": "IT",
+    "salary": 94000,
+    "experience_years": 7,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2017,
+    "skills": [
+      "AWS",
+      "Communication",
+      "Java",
+      "Project Management"
+    ],
+    "projects": [
+      "Orion",
+      "Athena",
+      "Ares"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "204180"
+    }
+  },
+  {
+    "name": "Kavya Naik",
+    "age": 35,
+    "dept": "Marketing",
+    "salary": 45000,
+    "experience_years": 1,
+    "rating": 4.4,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "SQL",
+      "AWS",
+      "Power BI"
+    ],
+    "projects": [
+      "Phoenix",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "925206"
+    }
+  },
+  {
+    "name": "Kalpana Reddy",
+    "age": 22,
+    "dept": "Finance",
+    "salary": 74000,
+    "experience_years": 1,
+    "rating": 3.6,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "R",
+      "Python"
+    ],
+    "projects": [
+      "Phoenix",
+      "Lyra",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "793169"
+    }
+  },
+  {
+    "name": "Meena Nair",
+    "age": 38,
+    "dept": "IT",
+    "salary": 62000,
+    "experience_years": 14,
+    "rating": 3.6,
+    "is_manager": false,
+    "join_year": 2010,
+    "skills": [
+      "Networking",
+      "Docker",
+      "Excel",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Ceres",
+      "Zeus"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "570050"
+    }
+  },
+  {
+    "name": "Thilaga Bhat",
+    "age": 55,
+    "dept": "Finance",
+    "salary": 115000,
+    "experience_years": 21,
+    "rating": 4.9,
+    "is_manager": true,
+    "join_year": 2003,
+    "skills": [
+      "Data Analysis",
+      "Excel",
+      "Word",
+      "Machine Learning",
+      "SQL"
+    ],
+    "projects": [
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "988456"
+    }
+  },
+  {
+    "name": "Nalini Reddy",
+    "age": 26,
+    "dept": "HR",
+    "salary": 71000,
+    "experience_years": 5,
+    "rating": 3.9,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Machine Learning",
+      "Networking",
+      "Data Analysis",
+      "Excel"
+    ],
+    "projects": [
+      "Hera"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "499407"
+    }
+  },
+  {
+    "name": "Kumaran Gowda",
+    "age": 35,
+    "dept": "Operations",
+    "salary": 99000,
+    "experience_years": 4,
+    "rating": 3.2,
+    "is_manager": false,
+    "join_year": 2020,
+    "skills": [
+      "Leadership",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Vega",
+      "Pegasus",
+      "Titan"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "536196"
+    }
+  },
+  {
+    "name": "Jyothi Swamy",
+    "age": 52,
+    "dept": "IT",
+    "salary": 57000,
+    "experience_years": 27,
+    "rating": 2.3,
+    "is_manager": false,
+    "join_year": 1997,
+    "skills": [
+      "AWS",
+      "Java",
+      "Git"
+    ],
+    "projects": [
+      "Athena",
+      "Atlas",
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "951201"
+    }
+  },
+  {
+    "name": "Saraswathi Kamath",
+    "age": 49,
+    "dept": "IT",
+    "salary": 83000,
+    "experience_years": 20,
+    "rating": 2.9,
+    "is_manager": true,
+    "join_year": 2004,
+    "skills": [
+      "Word",
+      "C++",
+      "Excel"
+    ],
+    "projects": [
+      "Hera",
+      "Pegasus",
+      "Athena"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "323072"
+    }
+  },
+  {
+    "name": "Meenakshi Menon",
+    "age": 58,
+    "dept": "HR",
+    "salary": 91000,
+    "experience_years": 28,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 1996,
+    "skills": [
+      "Git",
+      "JavaScript"
+    ],
+    "projects": [
+      "Nova"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "743378"
+    }
+  },
+  {
+    "name": "Vinod Hegde",
+    "age": 41,
+    "dept": "Finance",
+    "salary": 101000,
+    "experience_years": 1,
+    "rating": 2.5,
+    "is_manager": true,
+    "join_year": 2023,
+    "skills": [
+      "Python",
+      "SQL",
+      "Networking"
+    ],
+    "projects": [
+      "Kronos",
+      "Atlas"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "172965"
+    }
+  },
+  {
+    "name": "Prakash Verma",
+    "age": 32,
+    "dept": "Finance",
+    "salary": 96000,
+    "experience_years": 6,
+    "rating": 4.3,
+    "is_manager": false,
+    "join_year": 2018,
+    "skills": [
+      "Tableau",
+      "Java",
+      "SQL"
+    ],
+    "projects": [
+      "Ares",
+      "Atlas",
+      "Iris"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "155164"
+    }
+  },
+  {
+    "name": "Nalini Mehta",
+    "age": 48,
+    "dept": "Finance",
+    "salary": 83000,
+    "experience_years": 25,
+    "rating": 3.5,
+    "is_manager": false,
+    "join_year": 1999,
+    "skills": [
+      "Networking",
+      "MongoDB",
+      "Java",
+      "C++",
+      "Project Management"
+    ],
+    "projects": [
+      "Apollo"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "397005"
+    }
+  },
+  {
+    "name": "Varun Gupta",
+    "age": 35,
+    "dept": "HR",
+    "salary": 68000,
+    "experience_years": 5,
+    "rating": 3.0,
+    "is_manager": true,
+    "join_year": 2019,
+    "skills": [
+      "Project Management",
+      "AWS",
+      "C++"
+    ],
+    "projects": [
+      "Hermes",
+      "Kronos",
+      "Zeus"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "284229"
+    }
+  },
+  {
+    "name": "Bhavana Kumar",
+    "age": 51,
+    "dept": "IT",
+    "salary": 86000,
+    "experience_years": 19,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2005,
+    "skills": [
+      "Project Management",
+      "Python"
+    ],
+    "projects": [
+      "Nova",
+      "Ares",
+      "Pegasus"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "403578"
+    }
+  },
+  {
+    "name": "Kavya Shah",
+    "age": 28,
+    "dept": "HR",
+    "salary": 92000,
+    "experience_years": 5,
+    "rating": 3.2,
+    "is_manager": true,
+    "join_year": 2019,
+    "skills": [
+      "C++",
+      "Leadership",
+      "Tableau",
+      "SQL"
+    ],
+    "projects": [
+      "Delphi"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "882033"
+    }
+  },
+  {
+    "name": "Gomathi Iyer",
+    "age": 44,
+    "dept": "Finance",
+    "salary": 74000,
+    "experience_years": 8,
+    "rating": 2.3,
+    "is_manager": false,
+    "join_year": 2016,
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Word"
+    ],
+    "projects": [
+      "Lyra",
+      "Ceres",
+      "Ares",
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "731661"
+    }
+  },
+  {
+    "name": "Gopal Verma",
+    "age": 31,
+    "dept": "Operations",
+    "salary": 49000,
+    "experience_years": 8,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2016,
+    "skills": [
+      "Communication",
+      "Networking"
+    ],
+    "projects": [
+      "Helios"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "720148"
+    }
+  },
+  {
+    "name": "Anitha Mehta",
+    "age": 24,
+    "dept": "IT",
+    "salary": 93000,
+    "experience_years": 2,
+    "rating": 2.2,
+    "is_manager": false,
+    "join_year": 2022,
+    "skills": [
+      "Machine Learning",
+      "Docker",
+      "AWS",
+      "Java",
+      "Git"
+    ],
+    "projects": [
+      "Nimbus",
+      "Iris"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "744883"
+    }
+  },
+  {
+    "name": "Saravanan Reddy",
+    "age": 25,
+    "dept": "Operations",
+    "salary": 54000,
+    "experience_years": 3,
+    "rating": 4.9,
+    "is_manager": true,
+    "join_year": 2021,
+    "skills": [
+      "Machine Learning",
+      "Git",
+      "Networking"
+    ],
+    "projects": [
+      "Pegasus",
+      "Ceres"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "141043"
+    }
+  },
+  {
+    "name": "Sunil Joshi",
+    "age": 48,
+    "dept": "Finance",
+    "salary": 62000,
+    "experience_years": 26,
+    "rating": 3.9,
+    "is_manager": false,
+    "join_year": 1998,
+    "skills": [
+      "MongoDB",
+      "JavaScript",
+      "R",
+      "Leadership",
+      "SQL"
+    ],
+    "projects": [
+      "Pegasus",
+      "Helios"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "199096"
+    }
+  },
+  {
+    "name": "Malathi Hegde",
+    "age": 47,
+    "dept": "HR",
+    "salary": 46000,
+    "experience_years": 10,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2014,
+    "skills": [
+      "Networking",
+      "SQL",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Apollo",
+      "Pegasus",
+      "Helios"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "952686"
+    }
+  },
+  {
+    "name": "Swathi Iyer",
+    "age": 43,
+    "dept": "Operations",
+    "salary": 65000,
+    "experience_years": 8,
+    "rating": 5.0,
+    "is_manager": true,
+    "join_year": 2016,
+    "skills": [
+      "Networking",
+      "AWS"
+    ],
+    "projects": [
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "985447"
+    }
+  },
+  {
+    "name": "Sugumar Sen",
+    "age": 30,
+    "dept": "Marketing",
+    "salary": 91000,
+    "experience_years": 3,
+    "rating": 2.5,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Machine Learning",
+      "Java",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Phoenix",
+      "Ares",
+      "Helios"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "948343"
+    }
+  },
+  {
+    "name": "Chandran Shetty",
+    "age": 50,
+    "dept": "HR",
+    "salary": 105000,
+    "experience_years": 8,
+    "rating": 2.9,
+    "is_manager": false,
+    "join_year": 2016,
+    "skills": [
+      "Communication",
+      "Docker",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Helios",
+      "Kronos",
+      "Delphi",
+      "Hera"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "975679"
+    }
+  },
+  {
+    "name": "Lalitha Nair",
+    "age": 34,
+    "dept": "Marketing",
+    "salary": 60000,
+    "experience_years": 5,
+    "rating": 2.2,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Networking",
+      "Excel"
+    ],
+    "projects": [
+      "Hermes",
+      "Nova",
+      "Vega"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "681478"
+    }
+  },
+  {
+    "name": "Sumathi Murthy",
+    "age": 54,
+    "dept": "HR",
+    "salary": 92000,
+    "experience_years": 3,
+    "rating": 4.8,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Data Analysis",
+      "Java"
+    ],
+    "projects": [
+      "Delphi",
+      "Pegasus",
+      "Phoenix",
+      "Kronos"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "466566"
+    }
+  },
+  {
+    "name": "Deepak Mishra",
+    "age": 36,
+    "dept": "IT",
+    "salary": 87000,
+    "experience_years": 15,
+    "rating": 2.3,
+    "is_manager": false,
+    "join_year": 2009,
+    "skills": [
+      "R",
+      "Java",
+      "MongoDB"
+    ],
+    "projects": [
+      "Titan",
+      "Iris",
+      "Ares",
+      "Apollo"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "929822"
+    }
+  },
+  {
+    "name": "Deepak Kumar",
+    "age": 38,
+    "dept": "HR",
+    "salary": 55000,
+    "experience_years": 17,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2007,
+    "skills": [
+      "Java",
+      "C++"
+    ],
+    "projects": [
+      "Ceres",
+      "Ares",
+      "Hermes",
+      "Athena"
+    ],
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "415779"
+    }
+  },
+  {
+    "name": "Shobha Sen",
+    "age": 56,
+    "dept": "IT",
+    "salary": 113000,
+    "experience_years": 19,
+    "rating": 2.7,
+    "is_manager": true,
+    "join_year": 2005,
+    "skills": [
+      "C++",
+      "Docker",
+      "Data Analysis",
+      "Tableau"
+    ],
+    "projects": [
+      "Delphi"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "101640"
+    }
+  },
+  {
+    "name": "Srinivas Patel",
+    "age": 55,
+    "dept": "Marketing",
+    "salary": 108000,
+    "experience_years": 26,
+    "rating": 5.0,
+    "is_manager": false,
+    "join_year": 1998,
+    "skills": [
+      "Project Management",
+      "Communication"
+    ],
+    "projects": [
+      "Apollo",
+      "Pegasus",
+      "Hermes"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "592972"
+    }
+  },
+  {
+    "name": "Ravi Pillai",
+    "age": 28,
+    "dept": "Marketing",
+    "salary": 86000,
+    "experience_years": 2,
+    "rating": 2.1,
+    "is_manager": false,
+    "join_year": 2022,
+    "skills": [
+      "Word",
+      "Tableau",
+      "R",
+      "SQL",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Helios"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "970720"
+    }
+  },
+  {
+    "name": "Rekha Sharma",
+    "age": 34,
+    "dept": "IT",
+    "salary": 86000,
+    "experience_years": 5,
+    "rating": 3.5,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Java",
+      "Power BI",
+      "MongoDB",
+      "Communication"
+    ],
+    "projects": [
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "596395"
+    }
+  },
+  {
+    "name": "Vinod Singh",
+    "age": 45,
+    "dept": "Operations",
+    "salary": 92000,
+    "experience_years": 24,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2000,
+    "skills": [
+      "Word",
+      "Communication",
+      "Networking",
+      "JavaScript",
+      "SQL"
+    ],
+    "projects": [
+      "Hermes",
+      "Atlas",
+      "Nova",
+      "Helios"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "295892"
+    }
+  },
+  {
+    "name": "Savitha Singh",
+    "age": 27,
+    "dept": "Finance",
+    "salary": 94000,
+    "experience_years": 3,
+    "rating": 3.3,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Communication",
+      "Machine Learning",
+      "Java",
+      "Git",
+      "Data Analysis"
+    ],
+    "projects": [
+      "Zeus",
+      "Hermes",
+      "Kronos"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "823270"
+    }
+  },
+  {
+    "name": "Srinivas Bose",
+    "age": 32,
+    "dept": "IT",
+    "salary": 64000,
+    "experience_years": 10,
+    "rating": 4.0,
+    "is_manager": false,
+    "join_year": 2014,
+    "skills": [
+      "Communication",
+      "Git",
+      "Project Management"
+    ],
+    "projects": [
+      "Ceres"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "170499"
+    }
+  },
+  {
+    "name": "Lakshmi Naik",
+    "age": 50,
+    "dept": "Finance",
+    "salary": 104000,
+    "experience_years": 15,
+    "rating": 4.3,
+    "is_manager": false,
+    "join_year": 2009,
+    "skills": [
+      "Leadership",
+      "JavaScript",
+      "C++",
+      "Excel",
+      "Python"
+    ],
+    "projects": [
+      "Iris",
+      "Delphi"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "484774"
+    }
+  },
+  {
+    "name": "Radha Swamy",
+    "age": 57,
+    "dept": "IT",
+    "salary": 79000,
+    "experience_years": 25,
+    "rating": 2.8,
+    "is_manager": false,
+    "join_year": 1999,
+    "skills": [
+      "Power BI",
+      "Excel",
+      "R",
+      "SQL",
+      "Machine Learning"
+    ],
+    "projects": [
+      "Ares",
+      "Hermes"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "399449"
+    }
+  },
+  {
+    "name": "Jyothi Gowda",
+    "age": 42,
+    "dept": "Finance",
+    "salary": 64000,
+    "experience_years": 18,
+    "rating": 3.6,
+    "is_manager": false,
+    "join_year": 2006,
+    "skills": [
+      "Communication",
+      "Networking",
+      "C++"
+    ],
+    "projects": [
+      "Orion"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "846385"
+    }
+  },
+  {
+    "name": "Divya Pillai",
+    "age": 53,
+    "dept": "IT",
+    "salary": 92000,
+    "experience_years": 18,
+    "rating": 3.7,
+    "is_manager": false,
+    "join_year": 2006,
+    "skills": [
+      "SQL",
+      "MongoDB"
+    ],
+    "projects": [
+      "Iris",
+      "Delphi",
+      "Atlas",
+      "Hera"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "236074"
+    }
+  },
+  {
+    "name": "Pushpa Patel",
+    "age": 30,
+    "dept": "Finance",
+    "salary": 65000,
+    "experience_years": 8,
+    "rating": 3.4,
+    "is_manager": false,
+    "join_year": 2016,
+    "skills": [
+      "R",
+      "Data Analysis",
+      "Networking"
+    ],
+    "projects": [
+      "Athena"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "969325"
+    }
+  },
+  {
+    "name": "Venkat Reddy",
+    "age": 41,
+    "dept": "HR",
+    "salary": 56000,
+    "experience_years": 11,
+    "rating": 4.8,
+    "is_manager": false,
+    "join_year": 2013,
+    "skills": [
+      "JavaScript",
+      "Power BI"
+    ],
+    "projects": [
+      "Titan",
+      "Helios",
+      "Hera"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "397846"
+    }
+  },
+  {
+    "name": "Kavya Bose",
+    "age": 32,
+    "dept": "Marketing",
+    "salary": 62000,
+    "experience_years": 3,
+    "rating": 4.0,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "projects": [
+      "Lyra"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "454019"
+    }
+  },
+  {
+    "name": "Usha Rao",
+    "age": 35,
+    "dept": "Marketing",
+    "salary": 97000,
+    "experience_years": 10,
+    "rating": 3.9,
+    "is_manager": false,
+    "join_year": 2014,
+    "skills": [
+      "Word",
+      "C++",
+      "Project Management",
+      "MongoDB"
+    ],
+    "projects": [
+      "Hermes",
+      "Zeus",
+      "Nova",
+      "Ares"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "403742"
+    }
+  },
+  {
+    "name": "Lalitha Kapoor",
+    "age": 51,
+    "dept": "HR",
+    "salary": 80000,
+    "experience_years": 20,
+    "rating": 2.4,
+    "is_manager": false,
+    "join_year": 2004,
+    "skills": [
+      "Project Management",
+      "R",
+      "Communication",
+      "Networking"
+    ],
+    "projects": [
+      "Nimbus"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "869864"
+    }
+  },
+  {
+    "name": "Manoj Mehta",
+    "age": 29,
+    "dept": "Finance",
+    "salary": 114000,
+    "experience_years": 4,
+    "rating": 2.4,
+    "is_manager": true,
+    "join_year": 2020,
+    "skills": [
+      "C++",
+      "Tableau",
+      "Leadership",
+      "AWS",
+      "Power BI"
+    ],
+    "projects": [
+      "Iris",
+      "Delphi"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "745270"
+    }
+  },
+  {
+    "name": "Anitha Kapoor",
+    "age": 41,
+    "dept": "Operations",
+    "salary": 43000,
+    "experience_years": 3,
+    "rating": 4.8,
+    "is_manager": false,
+    "join_year": 2021,
+    "skills": [
+      "Java",
+      "Git",
+      "MongoDB",
+      "Word"
+    ],
+    "projects": [
+      "Helios",
+      "Hera",
+      "Apollo",
+      "Athena"
+    ],
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "325595"
+    }
+  },
+  {
+    "name": "Bhavana Reddy",
+    "age": 38,
+    "dept": "Finance",
+    "salary": 108000,
+    "experience_years": 12,
+    "rating": 2.1,
+    "is_manager": true,
+    "join_year": 2012,
+    "skills": [
+      "AWS",
+      "MongoDB",
+      "SQL",
+      "Project Management"
+    ],
+    "projects": [
+      "Hera",
+      "Vega",
+      "Athena",
+      "Titan"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "304110"
+    }
+  },
+  {
+    "name": "Rohit Joshi",
+    "age": 45,
+    "dept": "Finance",
+    "salary": 103000,
+    "experience_years": 5,
+    "rating": 2.6,
+    "is_manager": false,
+    "join_year": 2019,
+    "skills": [
+      "Java",
+      "R"
+    ],
+    "projects": [
+      "Iris",
+      "Delphi",
+      "Ares"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zip": "142210"
+    }
+  },
+  {
+    "name": "Lakshmi Sen",
+    "age": 54,
+    "dept": "HR",
+    "salary": 78000,
+    "experience_years": 30,
+    "rating": 3.8,
+    "is_manager": true,
+    "join_year": 1994,
+    "skills": [
+      "Docker",
+      "Leadership",
+      "Networking",
+      "AWS"
+    ],
+    "projects": [
+      "Lyra",
+      "Helios",
+      "Iris",
+      "Apollo"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "875232"
+    }
+  },
+  {
+    "name": "Vijaya Verma",
+    "age": 29,
+    "dept": "Operations",
+    "salary": 80000,
+    "experience_years": 1,
+    "rating": 3.8,
+    "is_manager": false,
+    "join_year": 2023,
+    "skills": [
+      "Java",
+      "Docker",
+      "Word"
+    ],
+    "projects": [
+      "Delphi",
+      "Kronos"
+    ],
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "705693"
+    }
+  },
+  {
+    "name": "Rajesh Pai",
+    "age": 37,
+    "dept": "IT",
+    "salary": 59000,
+    "experience_years": 7,
+    "rating": 2.1,
+    "is_manager": false,
+    "join_year": 2017,
+    "skills": [
+      "Data Analysis",
+      "Networking",
+      "Word"
+    ],
+    "projects": [
+      "Titan"
+    ],
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "533020"
+    }
+  },
+  {
+    "name": "Venkat Iyer",
+    "age": 57,
+    "dept": "Finance",
+    "salary": 118000,
+    "experience_years": 17,
+    "rating": 3.1,
+    "is_manager": false,
+    "join_year": 2007,
+    "skills": [
+      "AWS",
+      "Communication",
+      "JavaScript",
+      "Word"
+    ],
+    "projects": [
+      "Phoenix",
+      "Vega"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "659024"
+    }
+  },
+  {
+    "name": "Vani Gupta",
+    "age": 36,
+    "dept": "Finance",
+    "salary": 93000,
+    "experience_years": 12,
+    "rating": 2.6,
+    "is_manager": false,
+    "join_year": 2012,
+    "skills": [
+      "AWS",
+      "JavaScript",
+      "MongoDB",
+      "Excel"
+    ],
+    "projects": [
+      "Kronos",
+      "Pegasus",
+      "Titan",
+      "Helios"
+    ],
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "603110"
+    }
+  },
+  {
+    "name": "Priya Gupta",
+    "age": 27,
+    "dept": "Finance",
+    "salary": 113000,
+    "experience_years": 6,
+    "rating": 2.8,
+    "is_manager": false,
+    "join_year": 2018,
+    "skills": [
+      "AWS",
+      "JavaScript",
+      "R",
+      "Excel"
+    ],
+    "projects": [
+      "Phoenix",
+      "Zeus"
+    ],
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "968170"
+    }
+  },
+  {
+    "name": "Saraswathi Murthy",
+    "age": 55,
+    "dept": "HR",
+    "salary": 66000,
+    "experience_years": 2,
+    "rating": 2.3,
+    "is_manager": false,
+    "join_year": 2022,
+    "skills": [
+      "Python",
+      "AWS",
+      "Tableau"
+    ],
+    "projects": [
+      "Iris",
+      "Ceres",
+      "Orion",
+      "Helios"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "205428"
+    }
+  }
+]
