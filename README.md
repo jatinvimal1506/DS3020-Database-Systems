@@ -10,7 +10,7 @@ This repository contains lab work from the DS3020 Database Systems course at IIT
 | Lab | Topic |
 |-----|-------|
 | Lab 1 | Introduction to Databases — What is a Database, DBMS Concepts |
-| Lab 2 | Basic SQL — DDL Commands, CREATE, ALTER, DROP |
+| Lab 2 | Basic SQL — DDL and DML Commands, CREATE, ALTER, DROP ,SELCCT |
 | Lab 3 | SQL Queries — Subqueries, Aggregations, HAVING, CASE |
 | Lab 4 | Joins — Inner, Left, Natural Join, Type Casting |
 | Lab 5 | Stored Procedures & Functions — PL/pgSQL |
